@@ -1,5 +1,5 @@
 Freedom ImGui 2.0
-[Heading link](https://github.com/pandao/editor.md "Heading link")
+##Heading 2 link [Heading link](https://github.com/pandao/editor.md "Freedom - internal osu! mod")
 
 ### Tabs
 
