@@ -1,5 +1,5 @@
 Freedom ImGui 2.0
-##Heading 2 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+[Heading link](https://github.com/pandao/editor.md "Heading link")
 
 ### Tabs
 
