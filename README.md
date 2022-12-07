@@ -1,5 +1,5 @@
 Freedom ImGui 2.0
-[Freedom - internal osu! mod](https://github.com/pandao/editor.md "Freedom - internal osu! mod")
+[Freedom - internal osu! mod](https://github.com/Ciremun/freedom "Freedom - internal osu! mod")
 
 
 ### Tabs
